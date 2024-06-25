@@ -1,2 +1,2 @@
-# Introdu-o-a-Java
+# Introducao-a-Java
 Diretório da programação do curso Ambiente Programação em JAVA
